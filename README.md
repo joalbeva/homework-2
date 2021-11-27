@@ -1,4 +1,3 @@
-# homework-2![about me1](https://user-images.githubusercontent.com/93216310/142094723-d560ea9d-6f4b-4e7e-a204-ff2767b450fb.jpg)
-![contact](https://user-images.githubusercontent.com/93216310/142094726-e07f53aa-5985-45be-b265-bca9ae3b1872.png)
-![portfolio1](https://user-images.githubusercontent.com/93216310/142094728-deedc3d8-64d3-4787-9266-30156c794608.png)
-![portfolio2](https://user-images.githubusercontent.com/93216310/142094731-1652af78-f94e-4253-b710-e1e731db91d1.png)
+![pshmw22](https://user-images.githubusercontent.com/93216310/143690187-69ebe8e8-94da-4a72-87e5-6206e52364ab.png)
+![ps3](https://user-images.githubusercontent.com/93216310/143690190-ccfcb294-f82e-4342-953a-12a96e1cf23e.png)
+![pagehw2](https://user-images.githubusercontent.com/93216310/143690191-b8680406-ea5f-4fa3-a289-edd7c82ecd04.png)
